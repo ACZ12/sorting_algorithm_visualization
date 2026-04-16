@@ -17,7 +17,7 @@ frame = Frame(root, bg="lightblue")
 frame.pack()
 arr = []
 current_sorting = None
-ent_lab = Label(frame, text="Add meg a lista darabszámát vagy egy vesszővel elválasztott egyéni listát!")
+ent_lab = Label(frame, text="Addja meg a lista darabszámát vagy egy vesszővel elválasztott egyéni listát!")
 ent_lab.pack()
 ent = Entry(frame)
 ent.pack()
